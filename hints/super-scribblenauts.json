@@ -1,0 +1,132 @@
+{
+    "title" : "Super Scribblenauts",
+    "author" : "Tracy Poff",
+    "url" : "https://tmft.wordpress.com/",
+    "hint_groups" : [
+        { "name"  : "Constellation 1",
+          "hints" : [
+            { "question" : "1-1: Which one is the real starite?",
+              "answers" : [
+                "The starite is right there on the tree.",
+                "It's too high for you to reach, though. If only it were closer to you, or you were closer to it.",
+                "Create an **axe** to chop the tree down, or a **ladder** to climb the tree, and grab the red striped star."
+                ]
+            },
+            { "question" : "1-2: Place an object with similar characteristics in the empty box to complete the puzzle!",
+              "answers" : [
+                "A plesiosaurus and a giraffe are pretty different. Any similarities must be purely superficial.",
+                "They do look a little similar.",
+                "You need something with a long neck.",
+                "A **goose** will do.",
+                "For the advanced mode, a **zebra** and a **horse** will work."
+                ]
+            },
+            {
+                "question" : "1-3: Pit stop! The car needs replacement parts to get back on track!",
+                "answers" : [
+                    "What could a broken car need?",
+                    "The game's not picky. Any part will do.",
+                    "A new **tire** will send it on its way.",
+                    "For the advanced mode, you can create a replacement **axle** and **steering wheel**."
+                ]
+            },
+            {
+                "question" : "1-4: Kick off the beach party!",
+                "answers" : [
+                    "What's a party without some refreshments?",
+                    "Something that can be cooked outdoors would be best.",
+                    "A **barbecue** is traditional.",
+                    "Food's good, but don't forget to stay safe in the sun.",
+                    "Suburns are nasty!",
+                    "Better create some **sunblock** to take care of the rays.",
+                    "For the advanced mode, try **umbrella**, **swimsuit**, **surf board**, and **volleyball**."
+                ]
+            },
+            {
+                "question" : "1-5: Help the step-brothers become friends! Their love of sports will bring them together.",
+                "answers" : [
+                    "The step-brothers may love sports, but they are finding it difficult to play.",
+                    "They don't seem to have any equipment!",
+                    "If they're going to play together, they'll both need equipment for the same sport.",
+                    "If one of them had a **baseball**, they'd be halfway there.",
+                    "The other would just need a **bat** to play.",
+                    "For the advanced mode, create a **football** and **football helmet**, and a **hockey stick** and **puck**."
+                ]
+            },
+            {
+                "question" : "1-6: Create a new extinction event without weapons or asteroids!",
+                "answers" : [
+                    "Dinosaurs are huge! How could you possibly get rid of them?",
+                    "Maybe a **lion** could eat them all.",
+                    "No, that was stupid. It'd have to be something really big to take care of all the dinosaurs.",
+                    "Do you think dinosaurs can swim?",
+                    "A **flood** will wash them away.",
+                    "A **disease** will work just as well, and **pollution** is deadly, too, if anachronistic."
+                ]
+            },
+            {
+                "question" : "1-7: Provide a home for each creature!",
+                "answers" : [
+                    "Three different creatures will need three different homes.",
+                    "Each creature will prefer individually suitable living arrangements.",
+                    "A mountain climber probably doesn't live on a mountain all the time.",
+                    "So give the mountain climber a nice **log cabin** to rest in when not climbing.",
+                    "Tigers need some space to roam around in.",
+                    "A whole **jungle** should be enough space.",
+                    "Cows need some space, too, but they don't live in the jungle!",
+                    "A **field** is where a cow would feel at home.",
+                    "For the advanced mode, create a **tent** and a **house** for the mountain climber, a **savanna** and a **zoo** for the tiger, and a **pasture** and a **farm** for the cow."
+                ]
+            },
+            {
+                "question" : "1-8: The boy froze! Help him!",
+                "answers" : [
+                    "Better create some heat.",
+                    "You're outside, and there seem to be plenty of trees around.",
+                    "Create a **fire**.",
+                    "For the advanced mode, a **radiator** and the **sun** will warm the boy up, too."
+                ]
+            },
+            {
+                "question" : "1-9: The Create-A-Tron is used to assemble things by placing specific items inside. Help Maxwell make a body using the Create-A-Tron!",
+                "answers" : [
+                    "If you want to make a body, you'll need body parts.",
+                    "You just need six. Perhaps start at the top and work your way down?",
+                    "The **head** is at the top.",
+                    "It sits atop the **torso**.",
+                    "Attached to the torso should be at least one **arm** and **leg**.",
+                    "And at the end of each you'll find a **hand** or **foot**.",
+                    "For the advanced mode, try **elbow**, **femur**, **spine**, **skull**, **wrist**, **ankle**."
+                ]
+            },
+            {
+                "question" : "1-10: Unlock the statues in the correct order! Remember, Maxwell can interact with nearby objects by tapping on them!",
+                "answers" : [
+                    "What kind of order could you apply to people?",
+                    "You don't know their names, so alphabetical order is out. What can you tell by looking at them?",
+                    "The statues are all of different ages.",
+                    "Unlock them in order from youngest to oldest.",
+                    "Create and use a **yellow key**, **green key**, **blue key**, and **red key**, in that order."
+                ]
+            },
+            {
+                "question" : "1-11: Invaders are coming! Give the villagers weapons to make an army!",
+                "answers" : [
+                    "There are a lot of different kinds of weapons!",
+                    "When you give a weapon to a villager, they turn into someone that can use that kind of weapon.",
+                    "An army with just one kind of defender isn't much of an army.",
+                    "You'll need to create four different kinds of defender.",
+                    "Someone should keep public order.",
+                    "A policeman can do that. What kind of weapon might he use?",
+                    "A **gun** will create a policeman.",
+                    "Someone will be needed to fight on the front lines, too.",
+                    "Create a **spear** to make a warrior.",
+                    "You'll want someone that can attack from a distance, as well.",
+                    "A **bow** will create an archer.",
+                    "Why restrict your army to the mundane? Throw in some magic!",
+                    "Create a **wand** for a wizard."
+                ]
+            }]
+        }
+    ]
+}

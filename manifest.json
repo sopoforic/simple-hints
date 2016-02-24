@@ -1,0 +1,8 @@
+{
+    "manifest" : [
+        {
+            "title" : "Super Scribblenauts",
+            "url"  : "hints/super-scribblenauts.json"
+        }
+    ]
+}

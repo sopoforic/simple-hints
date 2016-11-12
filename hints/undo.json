@@ -1,0 +1,54 @@
+{
+  "title" : "Undo",
+  "author" : "Tracy Poff",
+  "url" : "https://tmft.wordpress.com/",
+  "hint_groups" : [
+    { "name"  : "Hints",
+      "hints" : [
+        { "question" : "I can't get anywhere in the dark room!",
+          "answers"  : [
+            "Stumbling around in the dark is rarely helpful.",
+            "It's no different here. This room is just a *Zork* joke."
+          ]
+        },
+        { "question" : "What's the point of the Self-Referential Room?",
+          "answers" : [
+            "The room seems to be empty, but there's still *something* you can look at.",
+            "The only thing mentioned in the room's description is the room itself.",
+            "The room has some writing on it, if you look closely.",
+            "You can **x room**, **x writing**, **x letters**, **x ink**, and finally you're back to **x room**."
+          ]
+        },
+        { "question" : "What is the eraser for?",
+          "answers" : [
+            "To erase things. Obviously.",
+            "You can't erase the hole, though.",
+            "Usually you'd erase writing with an eraser.",
+            "Not this one, though. In fact, there's only one thing you can erase.",
+            "Fittingly, since it came from the Self-Referential Room, the eraser can only erase itself."
+          ]
+        },
+        { "question" : "What's the point of the Binary Room?",
+          "answers" : [
+            "The room's description has been destroyed, but there are still some objects you can interact with.",
+            "You can **take 0** or **take 1**.",
+            "When you **take 0**, anything previously in your inventory is hidden.",
+            "This is probably a reference to *The Hitchhiker's Guide to the Galaxy*, in which the PC had 'no tea' in his inventory."
+          ]
+        },
+        { "question" : "How do I get past the hole?",
+          "answers" : [
+            "There are various objects lying around.",
+            "You can't use any of them to fill the hole, though.",
+            "You can't just walk around it, either.",
+            "That just leaves the frog and the duck.",
+            "You could try talking to them.",
+            "**ask duck about hole**",
+            "Now you just need to get past the duck.",
+            "**ask frog about duck**"
+          ]
+        }
+      ]
+    }
+  ]
+}

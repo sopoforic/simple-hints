@@ -1,8 +1,12 @@
 {
-    "manifest" : [
-        {
-            "title" : "Super Scribblenauts",
-            "url"  : "hints/super-scribblenauts.json"
-        }
-    ]
+  "manifest" : [
+    {
+      "title" : "Super Scribblenauts",
+      "url"   : "hints/super-scribblenauts.json"
+    },
+    {
+      "title" : "Undo by Neil deMause",
+      "url"   : "hints/undo.json"
+    }
+  ]
 }
